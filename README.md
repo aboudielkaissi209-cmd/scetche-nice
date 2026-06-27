@@ -1,4 +1,4 @@
-# scetche-nice
+
 print in the middel scetche nice
 PresentAI/
 │
